@@ -3,7 +3,6 @@
   import Hero from "../components/Hero.vue";
   import Stacks from "../components/Stacks.vue";
   import Projects from "../components/Projects.vue";
-  import Contact from "../components/Contact.vue";
   import Footer from "../components/Footer.vue";
 
 </script>
@@ -13,8 +12,7 @@
     <Navbar/>
     <Hero/>
     <Stacks/>
-    <!-- <Projects/> -->
-    <!-- <Contact/> -->
-    <!-- <Footer/> -->
+    <Projects/>
+    <Footer/>
   </main>
 </template>
