@@ -4,7 +4,7 @@
       <h3 class="text-center text-[46px] font-semibold mb-2 text-slate-100 hover:text-purple-500">My Tech Stacks</h3>
       <p class="text-center text-slate-100 text-lg">Technologies I’ve been working with recently</p>
     </div>
-    <div class="grid grid-cols-4 gap-y-4 gap-y-6 place-items-center my-20">
+    <div class="grid grid-cols-4 gap-y-4 gap-y-6 place-items-center my-20 mx-32">
       <a href="https://www.w3schools.com/html/" class="block p-2 my-2 cursor-pointer">
         <img class="block" src="../assets/html.svg" alt="html" width="120" height="120">
       </a>
@@ -29,7 +29,7 @@
       <a href="https://legacy.reactjs.org/" class="block p-2 my-2 cursor-pointer">
         <img class="block" src="../assets/react.svg" alt="react" width="120" height="120">
       </a>
-      <a href="https://git-scm.com/" class="block p-2 my-2 cursor-pointer"  v-on:mouseenter="tooltip=true" v-on:mouseleave="tooltip=false">
+      <!-- <a href="https://git-scm.com/" class="block p-2 my-2 cursor-pointer"  v-on:mouseenter="tooltip=true" v-on:mouseleave="tooltip=false">
         <img class="block" src="../assets/git.svg" alt="git" width="120" height="120">
       </a>
       <a href="https://github.com/" class="block p-2 my-2 cursor-pointer"  v-on:mouseenter="tooltip=true" v-on:mouseleave="tooltip=false">
@@ -40,7 +40,7 @@
       </a>
       <a href="https://code.visualstudio.com/" class="block p-2 my-2 cursor-pointer"  v-on:mouseenter="tooltip=true" v-on:mouseleave="tooltip=false">
         <img class="block" src="../assets/vscode.svg" alt="vscode" width="120" height="120">
-      </a>
+      </a> -->
     </div>
   </div>
 </template>

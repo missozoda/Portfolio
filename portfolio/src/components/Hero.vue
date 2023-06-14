@@ -15,7 +15,7 @@
 
     <!-- Modal About me -->
     
-    <div id="defaultModal" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-50  w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full flex justify-center items-center" :class="modal ? 'block bg-slate-950/70' : 'hidden'">
+    <div id="defaultModal" tabindex="-1" aria-hidden="true" class="fixed top-0 left-0 right-0 z-5 w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] flex justify-center items-center overflow-auto" :class="modal ? 'block bg-slate-950/70' : 'hidden'">
       <div class="relative w-1/2 h-1/2 max-w-2xl max-h-full shadow border-2 border-purple-600 bg-slate-950 rounded-xl">
         <div class="flex items-start justify-between p-4 border-b rounded-t">
           <h3 class="text-2xl font-semibold text-slate-100">
@@ -28,12 +28,18 @@
             <span class="sr-only">Close modal</span>
           </button>
         </div>
-        <div class="text-base font-medium p-8 tracking-wider leading-relaxed text-justify indent-8 text-slate-100">
-          I am Ernazarova Ozoda. I am frontend developer.
+        <div class="text-lg font-medium p-8 tracking-wider leading-relaxed text-justify indent-2 text-slate-100">
+          I am Ernazarova Ozoda. I am 20 years old and I  am in 3rd year of Tashkent State Technical University named after Islam Karimov.👩‍🎓
           <br>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis omnis at labore fugit dolor neque quaerat? Nisi, repellendus eius mollitia ea distinctio iure ducimus quidem quia, cum ab esse optio, perferendis asperiores quam debitis. Numquam, optio rem aliquid error dolore quasi tempore odit dicta ullam vitae quo suscipit doloribus consectetur?
-        </div>
-        <div class="flex items-center justify-end mt-24">
+          <br>
+          I am frontend developer. I learn a lot and fast.⚡
+          <br>
+          I am not afraid of difficulties and always move forward. 
+          <br>
+          <br>
+          I love my job.❤
+          </div>
+        <div class="flex items-center justify-end mt-16 ">
           <button class="mx-10 text-slate-100 bg-purple-600 hover:bg-purple-400 hover:text-slate-950 font-medium rounded-xl text-base px-10 py-2" type="button" @click="modal=false">Exit</button>
         </div>
       </div>

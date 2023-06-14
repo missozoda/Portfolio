@@ -14,7 +14,7 @@
           <h5 class="mb-3 text-xl font-bold text-slate-100 text-center">Chat button admin</h5>
           <p class="mb-4 font-medium text-slate-100 text-jutify">This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content</p>
           <p class="mb-20 text-slate-100 text-jutify">Tech stacks: Quasar, VueJS, Tailwindcss</p>
-          <!-- <a class="py-2 px-8 bg-slate-200 text-slate-950 rounded-lg" href="#">Live Preview</a> -->
+          <a class="py-2 px-8 bg-slate-200 text-slate-950 rounded-lg diabled" href="#">Live Preview</a>
         </div>
       </div>
       
