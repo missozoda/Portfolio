@@ -8,7 +8,7 @@
 </script>
 
 <template>
-  <main class="mx-auto px-32">
+  <main class="mx-auto px-5 md:px-16 lg:px-32">
     <Navbar/>
     <Hero/>
     <Stacks/>
