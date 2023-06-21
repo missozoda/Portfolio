@@ -6,38 +6,38 @@
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-5 mx-auto  place-items-center my-5 sm:my-10 lg:my-20">
       <div class="bg-[#363636] rounded-lg shadow mx-1 md:mx-2 lg:mx-5 xl:mx-8 2xl:mx-20">
-        <a href="#">
+        
           <img class="rounded-t-lg" src="../assets/chat-button.png" alt="chat-button" />
-        </a>
+      
         <div class="p-2 lg:p-5">
           <h5 class="mb-3 text-sm md:text-base lg:text-xl font-bold text-slate-100 text-center">Chat button admin</h5>
-          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content</p>
+          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">Admin website for Telegram bot users. This site is dedicated to creating, improving, purchasing and offering services for Telegram bots.</p>
           <p class="mb-5 md:mb-10 lg:mb-20 text-slate-100 text-jutify text-xs md:text-sm lg:text-base">Tech stacks: Quasar, VueJS, Tailwindcss</p>
-          <a class="py-1 lg:py-2 px-8 bg-slate-200 text-slate-950 rounded-lg diabled text-xs md:text-sm lg:text-base" href="#">Live Preview</a>
+          <button class="py-1 lg:py-2 px-8 bg-slate-200/50 text-slate-950 rounded-lg disabled text-xs md:text-sm lg:text-base" disabled>Live Preview</button>
         </div>
       </div>
       
       <div class="bg-[#363636] rounded-lg shadow mx-1 md:mx-2 lg:mx-5 xl:mx-8 2xl:mx-20">
-        <a href="https://geofond.kadastr.uz/#/">
+        <a target="_blank" href="https://geofond.kadastr.uz/#/">
           <img class="rounded-t-lg" src="../assets/geofond.png" alt="geofond" />
         </a>
         <div class="p-2 lg:p-5">
           <h5 class="mb-3 text-sm md:text-base lg:text-xl font-bold text-slate-100 text-center">Davlat kartografiya-geodeziya fondining ma'lumotlar portali</h5>
-          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content</p>
+          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">Current activities of the Departments of Digital Materials, Circulation and Publishing Originals, Geodetic Data at the State Cartography-Geodesy Fund.</p>
           <p class="mb-5 md:mb-10 lg:mb-20 text-slate-100 text-jutify text-xs md:text-sm lg:text-base">Tech stacks: VueJS, Tailwindcss</p>
-          <a class="py-1 lg:py-2 px-8 bg-slate-200 text-slate-950 rounded-lg text-xs md:text-sm lg:text-base" href="https://geofond.kadastr.uz/#/">Live Preview</a>
+          <a class="py-1 lg:py-2 px-8 bg-slate-200 text-slate-950 rounded-lg text-xs md:text-sm lg:text-base" target="_blank" href="https://geofond.kadastr.uz/#/">Live Preview</a>
         </div>
       </div>
 
       <div class="bg-[#363636] rounded-lg shadow mx-1 md:mx-2 lg:mx-5 xl:mx-8 2xl:mx-20">
-        <a href="https://open.ngis.uz/">
+        <a href="https://open.ngis.uz/" target="_blank">
           <img class="rounded-t-lg" src="../assets/geoportal.png" alt="geoportal" />
         </a>
         <div class="p-2 lg:p-5">
           <h5 class="mb-3 text-sm md:text-base lg:text-xl font-bold text-slate-100 text-center">Geoportal</h5>
-          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content</p>
+          <p class="mb-4 font-medium text-slate-100 text-jutify text-xs md:text-sm lg:text-base">The tasks of the public geoportal are to provide services to users of the information system based on the electronic cooperation module (web service) and provide information by integrating them based on technological guidelines.</p>
           <p class="mb-5 md:mb-10 lg:mb-20 text-slate-100 text-jutify text-xs md:text-sm lg:text-base">Tech stacks: ReactJS, TypeScript, Tailwindcss</p>
-          <a class="py-1 lg:py-2 px-8 bg-slate-200 text-slate-950 rounded-lg text-xs md:text-sm lg:text-base" href="https://open.ngis.uz/">Live Preview</a>
+          <a class="py-1 lg:py-2 px-8 bg-slate-200 text-slate-950 rounded-lg text-xs md:text-sm lg:text-base" target="_blank" href="https://open.ngis.uz/">Live Preview</a>
         </div>
       </div>
 

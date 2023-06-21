@@ -4,7 +4,7 @@
       <h3 class="text-center text-lg md:text-2xl lg:text-[46px] font-semibold mb-2 text-slate-100 hover:text-purple-500">My Tech Stacks</h3>
       <p class="text-center text-slate-100 text-sm sm:text-base lg:text-lg">Technologies I’ve been working with recently</p>
     </div>
-    <div class="grid grid-cols-4 gap-2 sm:gap-y-4 sm:gap-y-6 place-items-center my-5 md:my-16 lg:my-20 mx-0 sm:mx-5 md:mx-16 lg:mx-32">
+    <div class="grid grid-cols-4 gap-2 sm:gap-6 place-items-center my-5 md:my-16 lg:my-20 mx-0 sm:mx-5 md:mx-16 lg:mx-32">
       <a href="https://www.w3schools.com/html/" class="block md:p-2 my-2 cursor-pointer w-16 sm:w-20 md:w-[120px] h-auto">
         <img class="block" src="../assets/html.svg" alt="html" width="120" height="120">
       </a>
